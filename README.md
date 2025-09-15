@@ -1,14 +1,4 @@
-<!-- README.md for divineee84 -->
-<!-- Download this file and paste into a repo named exactly: divineee84 -->
 
-[![Profile views](https://komarev.com/ghpvc/?username=divineee84&color=0e1116&style=flat-square)](https://github.com/divineee84)
-
-<p align="left">
-  <img src="https://github.com/divineee84.png" width="140" alt="Rishi" style="border-radius:50%;">
-  <strong style="font-size:20px; margin-left:12px;">&nbsp;&nbsp;Rishi <sub style="color:gray">@divineee84</sub></strong>
-</p>
-
----
 
 # 👋 Hey — I'm **Rishi**
 A student developer from India. I tinker with programming, math, and logic puzzles to learn how things work under the hood. Right now: fumbling my way through **C++** and training my problem-solving muscles — one pointer at a time.
