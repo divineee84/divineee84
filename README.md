@@ -66,11 +66,10 @@ I started with Python because everyone said it was easy — and I struggled. The
 ---
 
 ## 🚀 Projects
-*(Replace URLs with real links if you have different repo names)*
 
-- **cli-helpers** — small CLI scripts to automate boring stuff. → https://github.com/divineee84/cli-helpers  
-- **algo-practice** — algorithm + math problem solutions. → https://github.com/divineee84/algo-practice  
-- **js-play** — tiny browser DOM & JS experiments. → https://github.com/divineee84/js-play
+- **githisiper** — small CLI non boring cloning of repos stuff. → https://github.com/divineee84/githisiper  
+- **Habit-Tracker** —Track your daily habits like a beast. → https://github.com/divineee84/Habit-Tracker  
+- **PyATM(JSON ForkEdition)** — tiny A persistent, smarter command-line ATM simulator. → https://github.com/divineee84/PyATM-JSON-Fork (real repolink: [link](https://github.com/SurajRayOG/-PyATM-Beginner-ATM-Simulator)
 
 ---
 
@@ -84,12 +83,8 @@ I started with Python because everyone said it was easy — and I struggled. The
 - **Discord:** https://discord.com/invite/XQnCt7M7eM  
 - **Ko-fi:** https://ko-fi.com/isoenthalp
 - **GitHub:** https://github.com/divineee84
-- **YouTube:** https://www.youtube.com/
-- **Spotify:** https://open.spotify.com/
-- **Apple Music:** https://music.apple.com/
-- **Stack Overflow:** https://stackoverflow.com/
-- **GeeksforGeeks:** https://www.geeksforgeeks.org/
+- **YouTube:** https://www.youtube.com/@Isoenthalp
 
 ---
 
-© 2023 Rishi — Still learning, still growing
+
