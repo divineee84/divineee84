@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<!-- Hero animated background GIF (big) -->
+<!-- Hero animated background GIF -->
 
 <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="800" style="border-radius:14px;box-shadow:0 14px 40px rgba(2,6,23,0.6)"/>
 
@@ -18,23 +18,33 @@
 
 ## 🚀 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Rishi"
-        self.location = "India"
-        self.role = "Student Developer"
-        self.interests = ["C++", "Math", "Logic Puzzles", "Automation Tools"]
-        self.learning_philosophy = "Break things, understand them, improve."
-    
-    def current_focus(self):
-        return ["C++ Fundamentals", "Problem Solving", "Small Automation Projects"]
-    
-    def life_motto(self):
-        return "Understand deeply, code smartly, never stop learning."
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
 
-me = Developer()
-print(me.life_motto())
+class Developer {
+public:
+    std::string name = "Rishi";
+    std::string location = "India";
+    std::string role = "Student Developer";
+    std::vector<std::string> interests = {"C++", "Math", "Logic Puzzles", "Automation Tools"};
+    std::string learning_philosophy = "Break things, understand them, improve.";
+
+    std::vector<std::string> current_focus() const {
+        return {"C++ Fundamentals", "Problem Solving", "Small Automation Projects"};
+    }
+
+    std::string life_motto() const {
+        return "Understand deeply, code smartly, never stop learning.";
+    }
+};
+
+int main() {
+    Developer me;
+    std::cout << me.life_motto() << std::endl;
+    return 0;
+}
 ```
 
 ---
@@ -48,7 +58,7 @@ print(me.life_motto())
 
 ---
 
-## 🛠️ Skillset (big & tidy badges — now larger)
+## 🛠️ Skillset (tidy badges)
 
 <div align="center">
 
@@ -61,7 +71,7 @@ print(me.life_motto())
 
 ---
 
-## 🎧 Fun Stack (bigger)
+## 🎧 Fun Stack
 
 <div align="center">
 
@@ -73,7 +83,7 @@ print(me.life_motto())
 
 ---
 
-## 🚀 Featured Projects (bigger cards)
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -85,7 +95,7 @@ print(me.life_motto())
 
 ---
 
-## 📊 GitHub Stats & Activity (bigger)
+## 📊 GitHub Stats & Activity
 
 <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=divineee84&show_icons=true&theme=dark&hide_border=true" />
