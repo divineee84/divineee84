@@ -58,19 +58,15 @@ int main() {
 
 ---
 
-## 🛠️ Coding Languages
+
+## 🛠️ Skillset
 
 <div align="center">
 
-<img alt="Python" src="https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
-<img alt="C++" src="https://img.shields.io/badge/-?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-?style=for-the-badge&logo=javascript&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
-<img alt="Python" src="https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
-<img alt="HTML5" src="https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
-<img alt="CSS3" src="https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
-<img alt="Java" src="https://img.shields.io/badge/-?style=for-the-badge&logo=java&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-?style=for-the-badge&logo=typescript&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
-<img alt="Bash" src="https://img.shields.io/badge/-?style=for-the-badge&logo=gnu-bash&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
+<img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="96" style="margin:10px;border-radius:12px;"/>
+<img src="https://img.shields.io/badge/Algorithms-80%25-F7DF1E?style=for-the-badge" height="96" style="margin:10px;border-radius:12px;"/>
+<img src="https://img.shields.io/badge/Problem_Solving-90%25-00D9FF?style=for-the-badge" height="96" style="margin:10px;border-radius:12px;"/>
+<img src="https://img.shields.io/badge/Git_%26_Tools-75%25-F05032?style=for-the-badge&logo=git&logoColor=white" height="96" style="margin:10px;border-radius:12px;"/>
 
 </div>
 
