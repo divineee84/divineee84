@@ -62,15 +62,17 @@ int main() {
 
 <div align="center">
 
-<!-- Tech Stack Badges -->
-<img src="https://img.shields.io/badge/C%2B%2B-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
-<img src="https://img.shields.io/badge/Java-Java-007396?style=for-the-badge&logo=java&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
-<img src="https://img.shields.io/badge/JavaScript-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="64" style="margin:8px;border-radius:10px;"/>
-<img src="https://img.shields.io/badge/HTML-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
-<img src="https://img.shields.io/badge/CSS-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
-<img src="https://img.shields.io/badge/Python-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
+<!-- Tech Stack Badges (clean, no duplicates) -->
+<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
 
 </div>
+
+
 
 
 ---
