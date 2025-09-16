@@ -58,7 +58,7 @@ int main() {
 
 ---
 
-## 🛠️ Skillset (tidy badges)
+## 🛠️ Skillset
 
 <div align="center">
 
