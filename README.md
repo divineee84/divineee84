@@ -62,13 +62,16 @@ int main() {
 
 <div align="center">
 
-
-<img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
-<img src="https://img.shields.io/badge/Algorithms-80%25-F7DF1E?style=for-the-badge" height="64" style="margin:8px;border-radius:10px;"/>
-<img src="https://img.shields.io/badge/Problem_Solving-90%25-00D9FF?style=for-the-badge" height="64" style="margin:8px;border-radius:10px;"/>
-<img src="https://img.shields.io/badge/Git_%26_Tools-75%25-F05032?style=for-the-badge&logo=git&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
+<!-- Tech Stack Badges -->
+<img src="https://img.shields.io/badge/C%2B%2B-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/Java-Java-007396?style=for-the-badge&logo=java&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/JavaScript-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/HTML-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/CSS-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/Python-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
 
 </div>
+
 
 ---
 
