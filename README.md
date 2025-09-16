@@ -70,6 +70,7 @@ I started with Python because everyone said it was easy — and I struggled. The
 - **githisiper** — small CLI non boring cloning of repos stuff. → https://github.com/divineee84/githisiper  
 - **Habit-Tracker** —Track your daily habits like a beast. → https://github.com/divineee84/Habit-Tracker  
 - **PyATM(JSON ForkEdition)** — tiny A persistent, smarter command-line ATM simulator. → https://github.com/divineee84/PyATM-JSON-Fork (real repolink: [link](https://github.com/SurajRayOG/-PyATM-Beginner-ATM-Simulator)
+- **cpp-daily** - Tracking own c++ learning. → https://divineee84.github.io/cpp-daily/
 
 ---
 
