@@ -2,12 +2,16 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=28\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=600\&lines=Student+Developer;C%2B%2B+Learner;Math+Enthusiast;Logic+Solver;Automation+Tinkerer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=700\&size=30\&pause=800\&color=00D9FF\&center=true\&vCenter=true\&width=800\&lines=Student+Developer;C%2B%2B+Learner;Math+&+Logic;Automation+Tinkerer;Always+Curious)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="400"/>
+
+<!-- Hero animated background GIF -->
+
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="520" style="border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,0.6)"/>
+
 </div>
 
 ---
@@ -35,66 +39,27 @@ print(me.life_motto())
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ✨ Quick Highlights
 
-<div align="center">
-
-### 💻 Programming & Tools
-
-<p>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p>
-  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</p>
-
-</div>
+* 📚 Student developer focused on systems-level thinking (pointers, memory)
+* ⚙️ I build small automation tools to kill boring tasks
+* 🧩 I practice math & algorithmic puzzles every day
+* ☕ I debug better after coffee
 
 ---
 
-## 📚 My journey so far
-
-I started with Python because everyone said it was easy — and I struggled. The coding mindset clicked gradually when I began thinking about problems differently. C++ is both frustrating and magical: memory and pointers force you to think about programs differently. When something finally clicks after a long grind, it's the best feeling. Outside code, I love solving math puzzles and breaking hard problems into smaller pieces.
-
----
-
-## 🔨 What I'm working on
-
-* **C++ development** — memory, pointers, systems-level behaviour
-* **Math & algorithms** — practising and improving problem-solving skills
-* **Small automation tools** — removing boring tasks via scripts and tiny CLIs
-
----
-
-## 🚀 Featured Projects
+## 🛠️ Skillset (animated-ish badges)
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=githisiper\&theme=dark\&hide_border=true)](https://github.com/divineee84/githisiper)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=Habit-Tracker\&theme=dark\&hide_border=true)](https://github.com/divineee84/Habit-Tracker)
+![C++ 85%](https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Algorithms 80%](https://img.shields.io/badge/Algorithms-80%25-F7DF1E?style=for-the-badge\&logo=algorithmia\&logoColor=black)
+!\[Problem Solving 90%]\([https://img.shields.io/badge/Problem\_Solving-90%25-00D9FF?style=for-the-badge\&logo=data\:image/svg+xml;utf8](https://img.shields.io/badge/Problem_Solving-90%25-00D9FF?style=for-the-badge&logo=data:image/svg+xml;utf8),<svg xmlns='http://www.w3.org/2000/svg'/> )
+![Git & Tools 75%](https://img.shields.io/badge/Git-75%25-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 </div>
 
----
-
-## 📊 GitHub Stats & Top Languages
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=divineee84&show_icons=true&theme=dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=divineee84&theme=dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divineee84&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-</div>
+> Note: GitHub README doesn't run JS/CSS, so for "animations" I used dynamic badges, animated gifs, and lively layout while keeping everything GitHub-friendly.
 
 ---
 
@@ -110,15 +75,38 @@ I started with Python because everyone said it was easy — and I struggled. The
 
 ---
 
-## 📊 Weekly Development Breakdown
+## 🚀 Featured Projects (cards)
+
+<div align="center">
+
+[![githisiper](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=githisiper\&theme=dark\&hide_border=true)](https://github.com/divineee84/githisiper)
+[![Habit-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=Habit-Tracker\&theme=dark\&hide_border=true)](https://github.com/divineee84/Habit-Tracker)
+[![cpp-daily](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=cpp-daily\&theme=dark\&hide_border=true)](https://github.com/divineee84/cpp-daily)
+
+</div>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divineee84&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divineee84&theme=dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divineee84&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+</div>
+
+---
+
+## 🧭 Weekly Development Breakdown
 
 ```text
-💻 Programming Languages:
 C++          ████████████░░░   75%
+Algorithms   ██████████░░░░░   70%
 JavaScript   ████████░░░░░░░   50%
-C#           ██████░░░░░░░░░   40%
-HTML/CSS     █████░░░░░░░░░░   35%
-Python       ████░░░░░░░░░░░   30%
+Tools (Git)  ███████░░░░░░░░   60%
 ```
 
 ---
@@ -136,13 +124,12 @@ Python       ████░░░░░░░░░░░   30%
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Goals
 
-* 🔭 **Currently working on:** deepening C++ knowledge (pointers & memory) and building small automation tools
-* 🌱 **Currently learning:** algorithms & competitive problem solving
-* 👯 **Looking to collaborate on:** beginner-friendly open-source tools and learning projects
-* 🤔 **Looking for help with:** improving algorithms & C++ best practices
-* ⚡ **Fun fact:** I debug better with coffee ☕
+* 🔭 Currently: mastering pointers & memory in C++
+* 🌱 Learning: competitive problem solving & algorithm design
+* 👯 Want to collab on: beginner-friendly tools and educational projects
+* 🤔 Need help with: optimizing algorithms and C++ best practices
 
 ---
 
@@ -156,21 +143,11 @@ Python       ████░░░░░░░░░░░   30%
 
 ---
 
-## 💰 Support My Work
+## 💰 Support
 
 <div align="center">
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/isoenthalp)
-
-</div>
-
----
-
-<div align="center">
-
-### 💫 Thanks for visiting! Leave a ⭐ if you like my profile!
-
-![Visitor Count](https://komarev.com/ghpvc/?username=divineee84\&style=for-the-badge\&color=0e75b6)
 
 </div>
 
