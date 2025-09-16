@@ -2,15 +2,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=700\&size=30\&pause=800\&color=00D9FF\&center=true\&vCenter=true\&width=800\&lines=Student+Developer;C%2B%2B+Learner;Math+&+Logic;Automation+Tinkerer;Always+Curious)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=700\&size=36\&pause=700\&color=00D9FF\&center=true\&vCenter=true\&width=1000\&lines=Student+Developer;C%2B%2B+Learner;Math+%26+Logic;Automation+Tinkerer;Always+Curious)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-<!-- Hero animated background GIF -->
+<!-- Hero animated background GIF (big) -->
 
-<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="520" style="border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,0.6)"/>
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="800" style="border-radius:14px;box-shadow:0 14px 40px rgba(2,6,23,0.6)"/>
 
 </div>
 
@@ -48,68 +48,53 @@ print(me.life_motto())
 
 ---
 
-## 🛠️ Skillset (big & tidy badges)
+## 🛠️ Skillset (big & tidy badges — now larger)
 
 <div align="center">
 
-<!-- Large badges: use height to make them visually bigger on GitHub -->
-
-<img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
-<img src="https://img.shields.io/badge/Algorithms-80%25-F7DF1E?style=for-the-badge" height="64" style="margin:8px;border-radius:10px;"/>
-<img src="https://img.shields.io/badge/Problem_Solving-90%25-00D9FF?style=for-the-badge" height="64" style="margin:8px;border-radius:10px;"/>
-<img src="https://img.shields.io/badge/Git_%26_Tools-75%25-F05032?style=for-the-badge&logo=git&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
-
-</div>
-
-> Note: GitHub README doesn't run JS/CSS, so for "animations" I used dynamic badges, animated gifs, and lively layout while keeping everything GitHub-friendly.
-
----
-
-## 🎧 Fun Stack
-
-<div align="center">
-
-<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-<img alt="Apple Music" src="https://img.shields.io/badge/Apple%20Music-FA233B?style=for-the-badge&logo=apple-music&logoColor=white" />
-<img alt="Minecraft" src="https://img.shields.io/badge/Minecraft-3FA037?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="96" style="margin:10px;border-radius:12px;"/>
+<img src="https://img.shields.io/badge/Algorithms-80%25-F7DF1E?style=for-the-badge" height="96" style="margin:10px;border-radius:12px;"/>
+<img src="https://img.shields.io/badge/Problem_Solving-90%25-00D9FF?style=for-the-badge" height="96" style="margin:10px;border-radius:12px;"/>
+<img src="https://img.shields.io/badge/Git_%26_Tools-75%25-F05032?style=for-the-badge&logo=git&logoColor=white" height="96" style="margin:10px;border-radius:12px;"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects (cards)
+## 🎧 Fun Stack (bigger)
 
 <div align="center">
 
-[![githisiper](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=githisiper\&theme=dark\&hide_border=true)](https://github.com/divineee84/githisiper)
-[![Habit-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=Habit-Tracker\&theme=dark\&hide_border=true)](https://github.com/divineee84/Habit-Tracker)
-[![cpp-daily](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=cpp-daily\&theme=dark\&hide_border=true)](https://github.com/divineee84/cpp-daily)
+<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
+<img alt="Apple Music" src="https://img.shields.io/badge/Apple%20Music-FA233B?style=for-the-badge&logo=apple-music&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
+<img alt="Minecraft" src="https://img.shields.io/badge/Minecraft-3FA037?style=for-the-badge&logo=minecraft&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🚀 Featured Projects (bigger cards)
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divineee84&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divineee84&theme=dark&hide_border=true" />
-</div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divineee84&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+[![githisiper](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=githisiper\&theme=dark\&hide_border=true\&width=280)](https://github.com/divineee84/githisiper)
+[![Habit-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=Habit-Tracker\&theme=dark\&hide_border=true\&width=280)](https://github.com/divineee84/Habit-Tracker)
+[![cpp-daily](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=cpp-daily\&theme=dark\&hide_border=true\&width=280)](https://github.com/divineee84/cpp-daily)
+
 </div>
 
 ---
 
-## 🧭 Weekly Development Breakdown
+## 📊 GitHub Stats & Activity (bigger)
 
-```text
-C++          ████████████░░░   75%
-Algorithms   ██████████░░░░░   70%
-JavaScript   ████████░░░░░░░   50%
-Tools (Git)  ███████░░░░░░░░   60%
-```
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=divineee84&show_icons=true&theme=dark&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=divineee84&theme=dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divineee84&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+</div>
 
 ---
 
@@ -156,5 +141,5 @@ Tools (Git)  ███████░░░░░░░░   60%
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer"/>
 </div>
