@@ -48,14 +48,16 @@ print(me.life_motto())
 
 ---
 
-## 🛠️ Skillset (animated-ish badges)
+## 🛠️ Skillset (big & tidy badges)
 
 <div align="center">
 
-![C++ 85%](https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Algorithms 80%](https://img.shields.io/badge/Algorithms-80%25-F7DF1E?style=for-the-badge\&logo=algorithmia\&logoColor=black)
-!\[Problem Solving 90%]\([https://img.shields.io/badge/Problem\_Solving-90%25-00D9FF?style=for-the-badge\&logo=data\:image/svg+xml;utf8](https://img.shields.io/badge/Problem_Solving-90%25-00D9FF?style=for-the-badge&logo=data:image/svg+xml;utf8),<svg xmlns='http://www.w3.org/2000/svg'/> )
-![Git & Tools 75%](https://img.shields.io/badge/Git-75%25-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+<!-- Large badges: use height to make them visually bigger on GitHub -->
+
+<img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/Algorithms-80%25-F7DF1E?style=for-the-badge" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/Problem_Solving-90%25-00D9FF?style=for-the-badge" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/Git_%26_Tools-75%25-F05032?style=for-the-badge&logo=git&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
 
 </div>
 
