@@ -98,11 +98,13 @@ I started with Python because everyone said it was easy — and I struggled. The
 
 ---
 
-## 🐍 Contribution Snake
+## 🎧 Fun Stack
 
 <div align="center">
 
-![snake gif](https://github.com/divineee84/devaaldo/blob/output/github-contribution-grid-snake-dark.svg)
+<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+<img alt="Apple Music" src="https://img.shields.io/badge/Apple%20Music-FA233B?style=for-the-badge&logo=apple-music&logoColor=white" />
+<img alt="Minecraft" src="https://img.shields.io/badge/Minecraft-3FA037?style=for-the-badge&logo=minecraft&logoColor=white" />
 
 </div>
 
