@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=700\&size=36\&pause=700\&color=00D9FF\&center=true\&vCenter=true\&width=1000\&lines=Student+Developer;C%2B%2B+Learner;Math+%26+Logic;Automation+Tinkerer;Always+Curious)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=700\&size=30\&pause=800\&color=00D9FF\&center=true\&vCenter=true\&width=800\&lines=Student+Developer;C%2B%2B+Learner;Math+&+Logic;Automation+Tinkerer;Always+Curious)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <!-- Hero animated background GIF -->
 
-<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="800" style="border-radius:14px;box-shadow:0 14px 40px rgba(2,6,23,0.6)"/>
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="520" style="border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,0.6)"/>
 
 </div>
 
@@ -18,33 +18,23 @@
 
 ## 🚀 About Me
 
-```cpp
-#include <iostream>
-#include <string>
-#include <vector>
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Rishi"
+        self.location = "India"
+        self.role = "Student Developer"
+        self.interests = ["C++", "Math", "Logic Puzzles", "Automation Tools"]
+        self.learning_philosophy = "Break things, understand them, improve."
+    
+    def current_focus(self):
+        return ["C++ Fundamentals", "Problem Solving", "Small Automation Projects"]
+    
+    def life_motto(self):
+        return "Understand deeply, code smartly, never stop learning."
 
-class Developer {
-public:
-    std::string name = "Rishi";
-    std::string location = "India";
-    std::string role = "Student Developer";
-    std::vector<std::string> interests = {"C++", "Math", "Logic Puzzles", "Automation Tools"};
-    std::string learning_philosophy = "Break things, understand them, improve.";
-
-    std::vector<std::string> current_focus() const {
-        return {"C++ Fundamentals", "Problem Solving", "Small Automation Projects"};
-    }
-
-    std::string life_motto() const {
-        return "Understand deeply, code smartly, never stop learning.";
-    }
-};
-
-int main() {
-    Developer me;
-    std::cout << me.life_motto() << std::endl;
-    return 0;
-}
+me = Developer()
+print(me.life_motto())
 ```
 
 ---
@@ -58,18 +48,20 @@ int main() {
 
 ---
 
-
-## 🛠️ Skillset
+## 🛠️ Skillset (big & tidy badges)
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="96" style="margin:10px;border-radius:12px;"/>
-<img src="https://img.shields.io/badge/Algorithms-80%25-F7DF1E?style=for-the-badge" height="96" style="margin:10px;border-radius:12px;"/>
-<img src="https://img.shields.io/badge/Problem_Solving-90%25-00D9FF?style=for-the-badge" height="96" style="margin:10px;border-radius:12px;"/>
-<img src="https://img.shields.io/badge/Git_%26_Tools-75%25-F05032?style=for-the-badge&logo=git&logoColor=white" height="96" style="margin:10px;border-radius:12px;"/>
+<!-- Large badges: use height to make them visually bigger on GitHub -->
+
+<img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/Algorithms-80%25-F7DF1E?style=for-the-badge" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/Problem_Solving-90%25-00D9FF?style=for-the-badge" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/Git_%26_Tools-75%25-F05032?style=for-the-badge&logo=git&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
 
 </div>
 
+> Note: GitHub README doesn't run JS/CSS, so for "animations" I used dynamic badges, animated gifs, and lively layout while keeping everything GitHub-friendly.
 
 ---
 
@@ -77,21 +69,21 @@ int main() {
 
 <div align="center">
 
-<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
-<img alt="Apple Music" src="https://img.shields.io/badge/Apple%20Music-FA233B?style=for-the-badge&logo=apple-music&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
-<img alt="Minecraft" src="https://img.shields.io/badge/Minecraft-3FA037?style=for-the-badge&logo=minecraft&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
+<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+<img alt="Apple Music" src="https://img.shields.io/badge/Apple%20Music-FA233B?style=for-the-badge&logo=apple-music&logoColor=white" />
+<img alt="Minecraft" src="https://img.shields.io/badge/Minecraft-3FA037?style=for-the-badge&logo=minecraft&logoColor=white" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (cards)
 
 <div align="center">
 
-[![githisiper](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=githisiper\&theme=dark\&hide_border=true\&width=280)](https://github.com/divineee84/githisiper)
-[![Habit-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=Habit-Tracker\&theme=dark\&hide_border=true\&width=280)](https://github.com/divineee84/Habit-Tracker)
-[![cpp-daily](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=cpp-daily\&theme=dark\&hide_border=true\&width=280)](https://github.com/divineee84/cpp-daily)
+[![githisiper](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=githisiper\&theme=dark\&hide_border=true)](https://github.com/divineee84/githisiper)
+[![Habit-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=Habit-Tracker\&theme=dark\&hide_border=true)](https://github.com/divineee84/Habit-Tracker)
+[![cpp-daily](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=cpp-daily\&theme=dark\&hide_border=true)](https://github.com/divineee84/cpp-daily)
 
 </div>
 
@@ -100,13 +92,24 @@ int main() {
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=divineee84&show_icons=true&theme=dark&hide_border=true" />
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=divineee84&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divineee84&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divineee84&theme=dark&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divineee84&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divineee84&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </div>
+
+---
+
+## 🧭 Weekly Development Breakdown
+
+```text
+C++          ████████████░░░   75%
+Algorithms   ██████████░░░░░   70%
+JavaScript   ████████░░░░░░░   50%
+Tools (Git)  ███████░░░░░░░░   60%
+```
 
 ---
 
@@ -153,5 +156,5 @@ int main() {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
