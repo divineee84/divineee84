@@ -58,14 +58,15 @@ int main() {
 
 ---
 
-## 🛠️ Skillset (tidy badges)
+## 🛠️ Skillset 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="96" style="margin:10px;border-radius:12px;"/>
-<img src="https://img.shields.io/badge/Algorithms-80%25-F7DF1E?style=for-the-badge" height="96" style="margin:10px;border-radius:12px;"/>
-<img src="https://img.shields.io/badge/Problem_Solving-90%25-00D9FF?style=for-the-badge" height="96" style="margin:10px;border-radius:12px;"/>
-<img src="https://img.shields.io/badge/Git_%26_Tools-75%25-F05032?style=for-the-badge&logo=git&logoColor=white" height="96" style="margin:10px;border-radius:12px;"/>
+
+<img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/Algorithms-80%25-F7DF1E?style=for-the-badge" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/Problem_Solving-90%25-00D9FF?style=for-the-badge" height="64" style="margin:8px;border-radius:10px;"/>
+<img src="https://img.shields.io/badge/Git_%26_Tools-75%25-F05032?style=for-the-badge&logo=git&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
 
 </div>
 
