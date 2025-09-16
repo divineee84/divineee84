@@ -1,91 +1,179 @@
-
-
 # 👋 Hey — I'm **Rishi**
-A student developer from India. I tinker with programming, math, and logic puzzles to learn how things work under the hood. Right now: fumbling my way through **C++** and training my problem-solving muscles — one pointer at a time.
 
-**Math · Coding · Logic · C++**
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=28\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=600\&lines=Student+Developer;C%2B%2B+Learner;Math+Enthusiast;Logic+Solver;Automation+Tinkerer)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="400"/>
+</div>
 
 ---
 
-## 🔭 What I care about
-- Learning how low-level stuff works (memory, pointers, algorithms)  
-- Building small automation tools to remove boring tasks  
-- Training a systematic problem-solving mindset through math & algorithms
+## 🚀 About Me
 
----
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Rishi"
+        self.location = "India"
+        self.role = "Student Developer"
+        self.interests = ["C++", "Math", "Logic Puzzles", "Automation Tools"]
+        self.learning_philosophy = "Break things, understand them, improve."
+    
+    def current_focus(self):
+        return ["C++ Fundamentals", "Problem Solving", "Small Automation Projects"]
+    
+    def life_motto(self):
+        return "Understand deeply, code smartly, never stop learning."
 
-## 🧠 What I'm learning (live)
-```bash
-rishi@learning ~ $ cat current_projects.txt
-> Solving math problems & trying to understand algorithms
-> Learning C++ fundamentals (pointers are confusing!)
-> Building small tools to automate boring stuff
-> Occasionally breaking things and learning from it
-// I mostly code to understand how things work
-rishi@learning ~ $ 
-rishi@learning ~ $ learning c++
+me = Developer()
+print(me.life_motto())
 ```
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Programming & Tools
+
 <p>
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /> 
-  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D7?logo=visualstudiocode&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white" />
-  <img alt="Apple Music" src="https://img.shields.io/badge/Apple%20Music-FA233B?logo=apple&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </p>
 
-<p>
-  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" />
-  <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8F2F?logo=geeksforgeeks&logoColor=white" />
-</p>
+</div>
 
 ---
 
 ## 📚 My journey so far
-I started with Python because everyone said it was easy — and I struggled. The coding mindset clicked gradually when I began to think about problems differently. C++ is both frustrating and magical: memory management and pointers force you to think about programs differently. When something clicks after a long grind, it's the best feeling. Outside code, I love solving math puzzles and breaking hard problems into smaller pieces.
+
+I started with Python because everyone said it was easy — and I struggled. The coding mindset clicked gradually when I began thinking about problems differently. C++ is both frustrating and magical: memory and pointers force you to think about programs differently. When something finally clicks after a long grind, it's the best feeling. Outside code, I love solving math puzzles and breaking hard problems into smaller pieces.
 
 ---
 
 ## 🔨 What I'm working on
-- **C++ development** — memory, pointers, systems-level behaviour  
-- **Math & algorithms** — practicing and improving problem-solving skills  
-- **Web fundamentals** — small JS/browser experiments to understand the web
+
+* **C++ development** — memory, pointers, systems-level behaviour
+* **Math & algorithms** — practising and improving problem-solving skills
+* **Small automation tools** — removing boring tasks via scripts and tiny CLIs
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- **githisiper** — small CLI non boring cloning of repos stuff. → https://github.com/divineee84/githisiper  
-- **Habit-Tracker** —Track your daily habits like a beast. → https://github.com/divineee84/Habit-Tracker  
-- **PyATM(JSON ForkEdition)** — tiny A persistent, smarter command-line ATM simulator. → https://github.com/divineee84/PyATM-JSON-Fork (real repolink: [link](https://github.com/SurajRayOG/-PyATM-Beginner-ATM-Simulator)
-- **cpp-daily** - Tracking own c++ learning. → https://divineee84.github.io/cpp-daily/
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=githisiper\&theme=dark\&hide_border=true)](https://github.com/divineee84/githisiper)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=divineee84\&repo=Habit-Tracker\&theme=dark\&hide_border=true)](https://github.com/divineee84/Habit-Tracker)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats & Top Languages
-![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=divineee84&show_icons=true&theme=dark&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divineee84&layout=compact&theme=dark&hide_border=true)
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=divineee84&show_icons=true&theme=dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=divineee84&theme=dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divineee84&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/divineee84/devaaldo/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+```text
+💻 Programming Languages:
+C++          ████████████░░░   75%
+JavaScript   ████████░░░░░░░   50%
+C#           ██████░░░░░░░░░   40%
+HTML/CSS     █████░░░░░░░░░░   35%
+Python       ████░░░░░░░░░░░   30%
+```
 
 ---
 
 ## 📫 Connect
-- **Discord:** https://discord.com/invite/XQnCt7M7eM  
-- **Ko-fi:** https://ko-fi.com/isoenthalp
-- **GitHub:** https://github.com/divineee84
-- **YouTube:** https://www.youtube.com/@Isoenthalp
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/invite/XQnCt7M7eM)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/isoenthalp)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/divineee84)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@Isoenthalp)
+
+</div>
 
 ---
 
+## 🎯 Current Goals
 
+* 🔭 **Currently working on:** deepening C++ knowledge (pointers & memory) and building small automation tools
+* 🌱 **Currently learning:** algorithms & competitive problem solving
+* 👯 **Looking to collaborate on:** beginner-friendly open-source tools and learning projects
+* 🤔 **Looking for help with:** improving algorithms & C++ best practices
+* ⚡ **Fun fact:** I debug better with coffee ☕
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divineee84\&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 💰 Support My Work
+
+<div align="center">
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/isoenthalp)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 Thanks for visiting! Leave a ⭐ if you like my profile!
+
+![Visitor Count](https://komarev.com/ghpvc/?username=divineee84\&style=for-the-badge\&color=0e75b6)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
