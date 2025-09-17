@@ -8,8 +8,6 @@
 
 <div align="center">
 
-<!-- Hero animated background GIF -->
-
 <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="800" style="border-radius:14px;box-shadow:0 14px 40px rgba(2,6,23,0.6)"/>
 
 </div>
@@ -58,53 +56,63 @@ int main() {
 
 ---
 
-## 🛠️ Skillset
+## 🛠️ Skillset (clean & spaced)
 
-### Frontend
+### Basics — coding
+
+**Frontend / UI**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="64" style="margin:6px;border-radius:10px;"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="64" style="margin:6px;border-radius:10px;"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="64" style="margin:6px;border-radius:10px;"/>
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="64" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="56" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="56" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="56" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="56" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="56" style="margin:6px;border-radius:10px;"/>
 </div>
 
-### Backend
+**Backend / Systems**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="64" style="margin:6px;border-radius:10px;"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="64" style="margin:6px;border-radius:10px;"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" height="64" style="margin:6px;border-radius:10px;"/>
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="64" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="56" style="margin:8px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="56" style="margin:8px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="56" style="margin:8px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="56" style="margin:8px;border-radius:10px;"/>
 </div>
 
+> *Small vertical spacing added between frontend and backend for readability.*
 
-### Extra skills (maths, logic etc)
+### Skills (short & focused)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Algorithms-FF6B6B?style=for-the-badge" height="64" style="margin:6px;border-radius:10px;"/>
-  <img src="https://img.shields.io/badge/-Data%20Structures-6C5CE7?style=for-the-badge" height="64" style="margin:6px;border-radius:10px;"/>
-  <img src="https://img.shields.io/badge/-Discrete%20Math-00B894?style=for-the-badge" height="64" style="margin:6px;border-radius:10px;"/>
-  <img src="https://img.shields.io/badge/-Problem%20Solving-0984E3?style=for-the-badge" height="64" style="margin:6px;border-radius:10px;"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="64" style="margin:6px;border-radius:10px;"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="64" style="margin:6px;border-radius:10px;"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="64" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Maths-FFB86B?style=for-the-badge" height="48" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Logic-6C5CE7?style=for-the-badge" height="48" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="48" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="48" style="margin:6px;border-radius:10px;"/>
 </div>
 
-### Fun stack
+---
+
+### Fun stack (games & socials)
 
 <div align="center">
-  <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="64" style="margin:6px;border-radius:10px;" />
-  <img alt="Apple Music" src="https://img.shields.io/badge/Apple%20Music-FA233B?style=for-the-badge&logo=apple-music&logoColor=white" height="64" style="margin:6px;border-radius:10px;" />
-  <img alt="Minecraft" src="https://img.shields.io/badge/Minecraft-3FA037?style=for-the-badge&logo=minecraft&logoColor=white" height="64" style="margin:6px;border-radius:10px;" />
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="56" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Apple%20Music-FA233B?style=for-the-badge&logo=apple-music&logoColor=white" height="56" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Minecraft-3FA037?style=for-the-badge&logo=minecraft&logoColor=white" height="56" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Roblox-ED1C24?style=for-the-badge&logo=roblox&logoColor=white" height="56" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="56" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/DeepSeek-0DA8FF?style=for-the-badge&logo=deepseek&logoColor=white" height="56" style="margin:6px;border-radius:10px;"/>
 </div>
 
-### AI / ML
+---
+
+### Apps I use (compact)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-11A37F?style=for-the-badge&logo=openai&logoColor=white" height="64" style="margin:6px;border-radius:10px;"/>
-  <img src="https://img.shields.io/badge/DeepSeek-0DA8FF?style=for-the-badge&logo=deepseek&logoColor=white" height="64" style="margin:6px;border-radius:10px;"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FF7A00?style=for-the-badge&logo=huggingface&logoColor=white" height="64" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="48" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="48" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=ubuntu&logoColor=white" height="48" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" height="48" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="48" style="margin:6px;border-radius:10px;"/>
 </div>
 
 ---
