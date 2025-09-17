@@ -56,7 +56,7 @@ int main() {
 
 ---
 
-## 🛠️ Skillset (clean & spaced)
+## 🛠️ Skillset 
 
 ### Basics — coding
 
@@ -80,7 +80,7 @@ int main() {
 </div>
 
 
-### Skills (short & focused)
+### Skills 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Maths-FFB86B?style=for-the-badge" height="48" style="margin:6px;border-radius:10px;"/>
@@ -104,7 +104,7 @@ int main() {
 
 ---
 
-### Apps I use (compact)
+### Apps I use 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="48" style="margin:6px;border-radius:10px;"/>
