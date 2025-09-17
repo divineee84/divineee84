@@ -58,35 +58,17 @@ int main() {
 
 ---
 
-## 🛠️ Skillset 
-
-<div align="center">
-
-<!-- Tech Stack Badges (clean, no duplicates) -->
-<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="64" style="margin:8px;border-radius:10px;"/>
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/>
-
-</div>
-
-
-
-
----
-
-## 🎧 Fun Stack
-
-<div align="center">
-
-<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
-<img alt="Apple Music" src="https://img.shields.io/badge/Apple%20Music-FA233B?style=for-the-badge&logo=apple-music&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
-<img alt="Minecraft" src="https://img.shields.io/badge/Minecraft-3FA037?style=for-the-badge&logo=minecraft&logoColor=white" height="72" style="margin:8px;border-radius:10px;" />
-
-</div>
-
+🛠️ Skillset
+Frontend
+<div align="center"> <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/> </div>
+Backend
+<div align="center"> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/> </div>
+Extra skills (maths, logic etc)
+<div align="center"> <img src="https://img.shields.io/badge/-Algorithms-FF6B6B?style=for-the-badge" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-Data%20Structures-6C5CE7?style=for-the-badge" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-Discrete%20Math-00B894?style=for-the-badge" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-Problem%20Solving-0984E3?style=for-the-badge" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="64" style="margin:8px;border-radius:10px;"/> </div>
+Fun stack
+<div align="center"> <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="64" style="margin:8px;border-radius:10px;" /> <img alt="Apple Music" src="https://img.shields.io/badge/Apple%20Music-FA233B?style=for-the-badge&logo=apple-music&logoColor=white" height="64" style="margin:8px;border-radius:10px;" /> <img alt="Minecraft" src="https://img.shields.io/badge/Minecraft-3FA037?style=for-the-badge&logo=minecraft&logoColor=white" height="64" style="margin:8px;border-radius:10px;" /> </div>
+al/ml (deep seek)
+<div align="center"> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/> <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="64" style="margin:8px;border-radius:10px;"/> </div>
 ---
 
 ## 🚀 Featured Projects
