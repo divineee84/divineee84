@@ -79,7 +79,6 @@ int main() {
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="56" style="margin:8px;border-radius:10px;"/>
 </div>
 
-> *Small vertical spacing added between frontend and backend for readability.*
 
 ### Skills (short & focused)
 
