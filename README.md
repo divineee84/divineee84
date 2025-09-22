@@ -2,8 +2,8 @@
 
 ```csharp
 github.com/isoenthalp
-dc   $  @rishi
-srv  $  discord.gg/your-server
+dc   $  @isoenthalp
+srv  $  discord.gg/5StQxuEwFj
 web  $  isoenthalp.surge.sh
 ```
 
@@ -11,17 +11,6 @@ web  $  isoenthalp.surge.sh
 
 # 👋 Hey — I'm **Rishi**
 
----
-
-## — About
-
-> Far from polished. Built to hit.
->
-> Minimal. Cold. Precise. If aesthetics had teeth, this would bite.
->
-> I write small, surgical tools that solve real problems — low-level code, tiny automations, and performance-first thinking.
-
----
 
 ## ✨ Quick Highlights
 
@@ -46,23 +35,26 @@ web  $  isoenthalp.surge.sh
 
 ## 🚀 Featured Projects
 
+Use real repo links below. These are simple, reliable badges that won't break when a third-party stats service chokes.
+
 <div align="center">
-  <a href="https://github.com/isoenthalp/project-1">![project](https://github-readme-stats.vercel.app/api/pin/?username=isoenthalp&repo=project-1&theme=dark&hide_border=true&width=280)</a>
-  <a href="https://github.com/isoenthalp/habit-tracker">![project](https://github-readme-stats.vercel.app/api/pin/?username=isoenthalp&repo=habit-tracker&theme=dark&hide_border=true&width=280)</a>
-  <a href="https://github.com/isoenthalp/cpp-daily">![project](https://github-readme-stats.vercel.app/api/pin/?username=isoenthalp&repo=cpp-daily&theme=dark&hide_border=true&width=280)</a>
+  <a href="https://github.com/isoenthalp/project-1"><img src="https://img.shields.io/badge/Project-1-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Project 1" style="margin:8px;border-radius:10px;"/></a>
+  <a href="https://github.com/isoenthalp/habit-tracker"><img src="https://img.shields.io/badge/Habit--Tracker-2b6cb0?style=for-the-badge&logo=github&logoColor=white" alt="Habit Tracker" style="margin:8px;border-radius:10px;"/></a>
+  <a href="https://github.com/isoenthalp/cpp-daily"><img src="https://img.shields.io/badge/CPP--Daily-00599C?style=for-the-badge&logo=github&logoColor=white" alt="CPP Daily" style="margin:8px;border-radius:10px;"/></a>
 </div>
+
+> How to change these: replace the URL path and the visible label (Project-1, Habit--Tracker, CPP--Daily) with your real repo names.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub (lightweight stats)
+
+Third-party "card" generators like github-readme-stats often fail when the username is wrong or the service is rate-limited. I replaced the fragile widgets with reliable Shields that link to your profile and show live counts.
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=isoenthalp&show_icons=true&theme=dark&hide_border=true" alt="github stats" />
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=isoenthalp&theme=dark&hide_border=true" alt="streak" />
-</div>
-
-<div align="center">
-  <img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isoenthalp&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="top langs" />
+  <a href="https://github.com/isoenthalp"><img src="https://img.shields.io/github/followers/isoenthalp?label=Followers&style=for-the-badge" alt="Followers" style="margin:6px;border-radius:10px;"/></a>
+  <a href="https://github.com/isoenthalp?tab=repositories"><img src="https://img.shields.io/github/repo-size/isoenthalp/project-1?label=Repo+size&style=for-the-badge" alt="Repo size" style="margin:6px;border-radius:10px;"/></a>
+  <a href="https://github.com/isoenthalp/stargazers"><img src="https://img.shields.io/github/stars/isoenthalp/project-1?label=Stars&style=for-the-badge" alt="Stars" style="margin:6px;border-radius:10px;"/></a>
 </div>
 
 ---
@@ -70,10 +62,10 @@ web  $  isoenthalp.surge.sh
 ## 📫 Connect
 
 <div align="center">
-  <a href="https://discord.com/invite/your-invite">![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
-  <a href="https://ko-fi.com/isoenthalp">![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)</a>
-  <a href="https://github.com/isoenthalp">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
-  <a href="https://www.youtube.com/@Isoenthalp">![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
+  <a href="https://discord.com/invite/your-invite"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin:6px;border-radius:10px;"/></a>
+  <a href="https://ko-fi.com/isoenthalp"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" style="margin:6px;border-radius:10px;"/></a>
+  <a href="https://github.com/isoenthalp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin:6px;border-radius:10px;"/></a>
+  <a href="https://www.youtube.com/@Isoenthalp"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin:6px;border-radius:10px;"/></a>
 </div>
 
 ---
@@ -87,22 +79,6 @@ web  $  isoenthalp.surge.sh
 
 ---
 
-## 📈 Activity Graph
-
 <div align="center">
-  <a href="https://github.com/isoenthalp"><img src="https://github-readme-activity-graph.vercel.app/graph?username=isoenthalp&theme=github" alt="activity graph"/></a>
-</div>
-
----
-
-## 💰 Support
-
-<div align="center">
-  <a href="https://ko-fi.com/isoenthalp">![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)</a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
 </div>
