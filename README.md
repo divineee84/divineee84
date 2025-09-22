@@ -64,7 +64,9 @@ web  $  isoenthalp.surge.sh
   <img src="https://img.shields.io/badge/Roblox-ED1C24?style=for-the-badge&logo=roblox&logoColor=white" height="56" style="margin:6px;border-radius:10px;"/>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="56" style="margin:6px;border-radius:10px;"/>
   <img src="https://img.shields.io/badge/DeepSeek-0DA8FF?style=for-the-badge&logo=deepseek&logoColor=white" height="56" style="margin:6px;border-radius:10px;"/>
+  <img src="https://img.shields.io/badge/CS2-FF6600?style=for-the-badge&logo=counter-strike&logoColor=white" height="56" style="margin:6px;border-radius:10px;"/>
 </div>
+
 
 ---
 
