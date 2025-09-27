@@ -39,7 +39,6 @@ web  $  isoenthalp.surge.sh
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="56" style="margin:8px;border-radius:10px;"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="56" style="margin:8px;border-radius:10px;"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="56" style="margin:8px;border-radius:10px;"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="56" style="margin:8px;border-radius:10px;"/>
 </div>
 
