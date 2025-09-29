@@ -1,12 +1,12 @@
 # 👋 Hey — I'm **Rishi**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono\&lines=isoenthalp.surge.sh+%7C+Rishi)](https://git.io/typing-svg) <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/220px-Red_star.svg.png" width="147"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono\&lines=aloneiso.surge.sh+%7C+Rishi)](https://git.io/typing-svg) <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/220px-Red_star.svg.png" width="147"/>
 
 ```csharp
-github.com/isoenthalp
-dc   $  @isoenthalp
+github.com/aloneiso
+dc   $  @aloneiso
 srv  $  discord.gg/5StQxuEwFj
-web  $  isoenthalp.surge.sh
+web  $  aloneiso.surge.sh
 ```
 
 ---
@@ -111,9 +111,9 @@ web  $  isoenthalp.surge.sh
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/invite/XQnCt7M7eM)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/isoenthalp)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/aloneiso)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/divineee84)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@Isoenthalp)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@aloneiso)
 
 </div>
 
@@ -142,7 +142,7 @@ web  $  isoenthalp.surge.sh
 
 <div align="center">
 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/isoenthalp)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/aloneiso)
 
 </div>
 
